@@ -54,7 +54,7 @@ const Navbar = () => {
             <a href="#home" className='px-[20px] py-[5px] bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0'>Home</a>
             <a href="#course" className='px-[20px] py-[5px] bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0'>Course</a>
             <a href="#links" className='px-[20px] py-[5px] bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0'>SocialLinks</a>
-            <a href='https://github.com/codeharbourdev' target='_blank' className='h-[45px] w-[130px] lg:hidden flex items-center justify-center gap-[15px]  bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0'>
+            <a href='https://github.com/codeharbourdev' target='_blank' className='px-[20px] py-[5px] lg:hidden flex items-center justify-center gap-[15px]  bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0'>
               <p className='text-xl'>GitHub</p>
               <img src={github} alt="img"  className='h-[25px] w-[25px]'/>
             </a>
