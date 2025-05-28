@@ -1,4 +1,4 @@
-# ⚓ Code Harbour - Learn. Build. Code.
+# Code Harbour - Learn. Build. Code.
 
 **Code Harbour** is my personal developer portfolio & resource website where learners can find curated playlists, project tutorials, and UI/UX based website clones — completely free and in Hindi.
 
