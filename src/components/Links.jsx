@@ -18,7 +18,7 @@ const Links = () => {
                     </div>
                     <p className='w-full h-[40px] flex whitespace-nowrap items-center justify-center text-2xl font-bold text-yellow-400 font-serif'>Code Harbour</p>
                 </div>
-                <p className='text-[23px] text-center font-medium text-gray-200 mt-[10px]'>
+                <p className='text-[20px] text-center font-medium text-gray-200 mt-[5px]'>
                     Where education meets real-world needs.
                 </p>
             </div>
@@ -33,7 +33,6 @@ const Links = () => {
                 <a href="https://linktr.ee/rishabhlinktree" target='_blank' className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>linktree</a>
                 <a href="https://www.linkedin.com/in/codeharbourdev/" target='_blank' className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>linkedin</a>
                 <a href="https://www.instagram.com/codeharbourdev/" target='_blank' className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>Instagram</a>
-                <a href="https://x.com/codeharbour_dev" target='_blank' className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>twitter</a>
             </div>
         </div>
     </section>
