@@ -28,7 +28,7 @@ const Links = () => {
                 <a href="#course" className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>Course</a>
                 <a href="#links" className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>SocialLinks</a>
             </div>
-            <div className='h-[300px] w-[250px] border-2 border-blue-500 rounded-[5px] hover:cursor-pointer px-[10px] py-[10px] hover:shadow-[0_0_10px_blue] flex flex-col gap-[15px]'>
+            <div className='h-[300px] w-[250px] border-2 border-blue-500 rounded-[5px] hover:cursor-pointer px-[15px] py-[15px] hover:shadow-[0_0_10px_blue] flex flex-col gap-[20px]'>
                 <p className='py-[5px] w-full text-[25px] text-center border-b-2 border-blue-500'>Get in Touch</p>
                 <a href="https://linktr.ee/rishabhlinktree" target='_blank' className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>linktree</a>
                 <a href="https://www.linkedin.com/in/codeharbourdev/" target='_blank' className='h-[40px] w-full bg-violet-500 hover:bg-[#0f111a] hover:border-2 hover:border-[#854ce6] text-lg rounded-[3px] transition-colors duration-[300ms] ease-in outline-0 flex items-center px-[10px]'>linkedin</a>
