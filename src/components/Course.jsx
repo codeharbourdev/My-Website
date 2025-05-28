@@ -15,7 +15,7 @@ const Course = () => {
                     <img src={Reactjs} alt="img" className='h-full w-full rounded-[7px] shadow-[0_0_8px_black]'/>
                 </div>
                 <div className='h-[50px] w-full border-b-2 border-black flex items-center justify-center'>
-                    <p className='text-[18px] sm:text-[20px] font-serif font-medium text-center'>React Js Course With Hindi</p>
+                    <p className='text-[18px] sm:text-[20px] font-serif font-medium text-center whitespace-nowrap'>React Js Course With Hindi</p>
                 </div>
                 <div className='h-[60px] w-full flex items-center'>
                     <a href='https://youtube.com/playlist?list=PLgfYFbECYlcZTwcSQ5EE8VVlH22iN3Ptz&si=3YnKiXJAOv2CoXbv' target='_blank' className='h-[40px] w-min bg-black flex-row flex items-center justify-center rounded-[3px] whitespace-nowrap px-[20px] text-[20px] ml-[5px]'>View Course</a>
@@ -26,7 +26,7 @@ const Course = () => {
                     <img src={js} alt="img" className='h-full w-full rounded-[7px] shadow-[0_0_8px_black]'/>
                 </div>
                 <div className='h-[50px] w-full border-b-2 border-black flex items-center justify-center'>
-                    <p className='text-[18px] sm:text-[20px] font-serif font-medium text-center'>Js Projects With Code</p>
+                    <p className='text-[18px] sm:text-[20px] font-serif font-medium text-center whitespace-nowrap'>Js Projects With Code</p>
                 </div>
                 <div className='h-[60px] w-full flex items-center'>
                     <a href='https://youtube.com/playlist?list=PLgfYFbECYlcbIhg4BKi9sqrFzyjeDjxGg&si=nJPp7eW2YHUaDDZh' target='_blank' className='h-[40px] w-min bg-black flex-row flex items-center justify-center rounded-[3px] whitespace-nowrap px-[20px] text-[20px] ml-[5px]'>View Course</a>
@@ -37,7 +37,7 @@ const Course = () => {
                     <img src={clone} alt="img" className='h-full w-full rounded-[7px] shadow-[0_0_8px_black]'/>
                 </div>
                 <div className='h-[50px] w-full border-b-2 border-black flex items-center justify-center'>
-                    <p className='text-[18px] sm:text-[20px] font-serif font-medium text-center'>UI/UX & Clone With Code</p>
+                    <p className='text-[18px] sm:text-[20px] font-serif font-medium text-center whitespace-nowrap'>UI/UX & Clone With Code</p>
                 </div>
                 <div className='h-[60px] w-full flex items-center'>
                     <a href='https://youtube.com/playlist?list=PLgfYFbECYlcZ35uILuPZdUN2fQ8tRAyy1&si=ua-S9cAFaZr8OJBR' target='_blank' className='h-[40px] w-min bg-black flex-row flex items-center justify-center rounded-[3px] whitespace-nowrap px-[20px] text-[20px] ml-[5px]'>View Course</a>
