@@ -1,4 +1,4 @@
-import Rishabh from '../assets/Rishabh.png'
+import Rishabh from '../assets/Rishabh.jpg'
 
 const Hero = () => {
   return (
@@ -19,7 +19,7 @@ const Hero = () => {
             </div>
             {/*********************  hero img  box  *******************/}
             <div className='h-[400px] sm:h-[500px] w-full flex items-center justify-center'>
-                <img src={Rishabh} alt="img" className='h-[95%] w-[95%] rounded-[10px] sm:h-[450px] sm:w-[450px] ring-3 ring-[#854ce6] shadow-[0_0_30px_#854ce6]'/>
+                <img src={Rishabh} alt="img" className='h-[90%] w-[90%] rounded-[10px] sm:h-[450px] sm:w-[450px] ring-3 ring-[#854ce6] shadow-[0_0_30px_#854ce6]'/>
             </div>
         </div>
     </section>

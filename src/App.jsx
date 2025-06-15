@@ -11,7 +11,7 @@ function App() {
     <div>
       <Navbar/>
       <Hero/>
-      <Course/>
+      {/*<Course/>**/}
       <Links/>
       <Footer/>
     </div>
